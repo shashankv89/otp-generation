@@ -6,6 +6,10 @@ public classs Demo{
 		// logic completed
 		int a=10;
 		int b= 20;
+
+//bug 10-shashank logic to be done
+
+//my pending work is completed.
 		
 	int result= a+b;
 	
