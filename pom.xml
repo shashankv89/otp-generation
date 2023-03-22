@@ -23,6 +23,7 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
 <<<<<<< HEAD
+<<<<<<< Updated upstream
       <version>4.2.3</version>
 	  
 	  bug 150 my new priror work is to be done
@@ -30,8 +31,15 @@
 	  //logic is comleted
 	  
 =======
+      <version>4.3.4</version>
+	  
+	  //bug 111 function need to be added
+	  
+	  logic is in progress
+>>>>>>> Stashed changes
+=======
       <version>4.8</version>
->>>>>>> 6a0be8641254cc07a0f315814957140de1e6fadb
+
       <scope>test</scope>
     </dependency>
   </dependencies>
